@@ -1,4 +1,4 @@
-""" A simple chatbot using cosine similarity
+""" A chatbot using cosine similarity
 Created by Taycir Yahmed as the starter code for a machine learning bot.
 
 This file contains the code to train and test the model.
